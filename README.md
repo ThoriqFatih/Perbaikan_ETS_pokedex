@@ -1,1 +1,0 @@
-# Perbaikan_ETS_pokedex
