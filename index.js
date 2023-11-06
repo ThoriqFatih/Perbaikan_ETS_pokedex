@@ -22,7 +22,7 @@ fetch(apiUrl)
       pokemonName.textContent = pokemon.name;
 
       const detailButton = document.createElement('a');
-      detailButton.href = '#';
+      detailButton.href = 'pokemon.url';
       detailButton.classList.add('btn', 'btn-primary');
       detailButton.textContent = 'Detail';
 
